@@ -109,7 +109,7 @@
 		"translate"
 	],
 	"devDependencies": {
-		"esbuild": "^0.15.9"
+		"esbuild": "^0.25.0"
 	},
 	"dependencies": {
 		"@formatjs/ts-transformer": "^3.10.0"
